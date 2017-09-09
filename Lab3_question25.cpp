@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+main() {
+	int a=1;
+	while (a<=100)
+	{
+		if(a%2==0)
+		cout<<a<<"  ";
+		a+=1;
+	}
+}
