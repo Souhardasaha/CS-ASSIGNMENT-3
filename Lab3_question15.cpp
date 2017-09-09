@@ -9,3 +9,4 @@ main()
      else
        cout<<" the triangle is not valid ";
 }
+  
